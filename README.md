@@ -37,5 +37,5 @@ Nombre | Remoto | Dirección |
 [Metaenlace](https://metaenlace.com/) | ﹖ | - |
 [Neosistec](https://www.neosistec.com/) | ﹖ | - |
 [Ntt data / Everis](https://es.nttdata.com/) | ﹖ | - |
-[Sozpic](https://www.sozpic.com/) | ﹖ | - |
+[Sozpic](https://www.sozpic.com/) | 🔄 | Av/ Juan Carlos I 59, planta 3, 30100, Espinardo, Murcia |
 
