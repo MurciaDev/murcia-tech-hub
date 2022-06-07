@@ -16,7 +16,7 @@ Nombre | Remoto | Dirección |
 [Erasmusu](https://erasmusu.com/) | ﹖ | - |
 [Gofoodie](https://gofoodie.app/) | ﹖ | - |
 [Legaliboo](https://legaliboo.com/) | ﹖ | C. Campus Universitario, 7, Edificio CEEIM, 30100 Espinardo, Murcia |
-[Leverade](https://leverade.com/) | ﹖ | C. Campus Universitario, 7, Edificio CEEIM, 30100 Espinardo, Murcia |
+[LEVERADE](https://leverade.com/) | ✅ | C. Campus Universitario, 7, Edificio CEEIM, 30100 Espinardo, Murcia |
 [Minderest](https://www.minderest.com) | 🔄 | - |
 [Neuromobile](https://neuromobile.es/) | ✅ | - |
 [Nido robotics](https://www.nidorobotics.com/) | ﹖ | - |
