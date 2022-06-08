@@ -26,16 +26,21 @@ Nombre | Remoto | Dirección |
 [Slang Digital](https://slang.digital/) | ﹖ | Parque Cientifico de Murcia Ctra. Madrid Km 388 30100 Murcia, Murcia |
 [STEL Order](https://www.stelorder.com/) | ﹖ | C. Mayor, 2, 30006 Puente Tocinos, Murcia |
 [Wefish](https://wefish.app/) | ﹖ | - |
+[Weguest](https://www.weguest.com/) | ﹖ | - |
 
 ## 📚 Consultoras / Agencias digitales
 
 Nombre | Remoto | Dirección |
 --- | --- | --- |
 [Aunna IT](https://www.aunnait.es/) | ﹖ | - |
+[Bitec](https://www.bitec.es/) | ﹖ | - |
 [Capgemini](https://www.capgemini.com/) | ﹖ | - |
+[Digio](https://digio.es/) | ﹖ | - |
 [Drool studio](https://droolstudio.com/) | ﹖ | - |
+[Introbay](https://introbay.com/) | ﹖ | - |
 [Metaenlace](https://metaenlace.com/) | ﹖ | - |
 [Neosistec](https://www.neosistec.com/) | ﹖ | - |
 [Ntt data / Everis](https://es.nttdata.com/) | ﹖ | - |
 [Sozpic](https://www.sozpic.com/) | 🔄 | Av/ Juan Carlos I 59, planta 3, 30100, Espinardo, Murcia |
+[Zapp Studio](https://zapp-studio.com/) | ﹖ | - |
 
