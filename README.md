@@ -34,7 +34,7 @@ Nombre | Remoto | Stack | Dirección |
 --- | --- | --- | --- |
 [Aunna IT](https://www.aunnait.es/) | ﹖ | ﹖ | - |
 [Bitec](https://www.bitec.es/) | ﹖ | ﹖ | - |
-[Capgemini](https://www.capgemini.com/) | ﹖ | ﹖ | - |
+[Capgemini](https://www.capgemini.com/) | 🔄 | ﹖ | Urban Center, Torre B, Calle Nelva, 1, 30006 Murcia |
 [Digio](https://digio.es/) | ﹖ | ﹖ | - |
 [Drool studio](https://droolstudio.com/) | ﹖ | ﹖ | - |
 [Introbay](https://introbay.com/) | ﹖ | ﹖ | - |
