@@ -1,4 +1,3 @@
-
 # 📂 Murcia Tech Hub
 
 > Listado de empresas con trabajos tecnológicos dentro de la Región de Murcia.
@@ -10,7 +9,7 @@ Si conoces alguna más o puedes poner algún dato más sobre las que ya existen 
 
 ## 📗 Empresas de producto
 | Nombre | Remoto | Stack | Dirección |
-| - | - | - | - |
+| :-- | :-- | :-- | :-- |
 | [Carsbater](https://www.carsbarter.es/) | ﹖ | ﹖ | Carr. de Alicante, 215B, Nave 3, 30007 Murcia |
 | [DisplayNote](https://www.displaynote.com/) | ✅ | ﹖ | C. Trapería 19, 3D |
 | [Erasmusu](https://erasmusu.com/) | ﹖ | ﹖ | ﹖ |
@@ -31,7 +30,7 @@ Si conoces alguna más o puedes poner algún dato más sobre las que ya existen 
 
 ## 📚 Consultoras / Agencias digitales
 | Nombre | Remoto | Stack | Dirección |
-| - | - | - | - |
+| :-- | :-- | :-- | :-- |
 | [Aunna IT](https://www.aunnait.es/) | ﹖ | ﹖ | C. Central, 17C, 30100 Murcia |
 | [Bitec](https://www.bitec.es/) | ﹖ | ﹖ | P.º Joaquín Garrigues Walker, 14, 30007 Murcia |
 | [Capgemini](https://www.capgemini.com/) | 🔄 | ﹖ | Urban Center, Torre B, Calle Nelva, 1, 30006 Murcia |

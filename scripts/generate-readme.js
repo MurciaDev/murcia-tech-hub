@@ -7,8 +7,10 @@ const REMOTE_WORK_ICONS = {
   NONE: '🚫',
 }
 
+const tableHeader = '| Nombre | Remoto | Stack | Dirección |\n| :-- | :-- | :-- | :-- |\n'
+
 const companiesMarkdown = companies.map(({ category, companies }, index) => {
-  const header = `${!!index ? '\n' : ''}## ${category}\n| Nombre | Remoto | Stack | Dirección |\n| - | - | - | - |\n`
+  const header = `${!!index ? '\n' : ''}## ${category}\n${tableHeader}`
   const body = companies.map(({ address, remoteWork, name, stack, url }) =>
     `| [${name}](${url}) | ${REMOTE_WORK_ICONS[remoteWork] || '﹖'} | ${stack || '﹖'} | ${address || '﹖'} |\n`
   ).join('')
