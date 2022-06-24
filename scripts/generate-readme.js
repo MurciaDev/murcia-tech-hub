@@ -32,5 +32,5 @@ try {
   fs.writeFileSync(`${process.cwd()}/`, markdown, 'utf-8')
   console.log('\x1b[32m%s\x1b[0m', 'README generated successfully! 🍋\n')
 } catch (err) {
-  console.error(err)
+  throw err
 }
