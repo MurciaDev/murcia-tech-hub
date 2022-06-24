@@ -1,0 +1,33 @@
+[
+  {
+    "category": "📗 Empresas de producto",
+    "companies": [
+      {
+        "address": "Carr. de Alicante, 215B, Nave 3, 30007 Murcia",
+        "hasRemoteWork": true,
+        "name": "Carsbater",
+        "stack": null,
+        "url": "https://www.carsbarter.es/"
+      },
+      {
+        "address": "",
+        "hasRemoteWork": true,
+        "name": "",
+        "stack": null,
+        "url": ""
+      }
+    ]
+  },
+  {
+    "category": "📚 Consultoras / Agencias digitales",
+    "companies": [
+      {
+        "address": "",
+        "hasRemoteWork": true,
+        "name": "",
+        "stack": null,
+        "url": ""
+      }
+    ]
+  }
+]
