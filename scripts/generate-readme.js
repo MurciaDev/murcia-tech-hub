@@ -29,7 +29,7 @@ Si conoces alguna más o puedes poner algún dato más sobre las que ya existen 
 ${companiesMarkdown}`
 
 try {
-  fs.writeFileSync(`${process.cwd()}/`, markdown, 'utf-8')
+  fs.writeFileSync(`${process.cwd()}/README.md`, markdown, 'utf-8')
   console.log('\x1b[32m%s\x1b[0m', 'README generated successfully! 🍋\n')
 } catch (err) {
   throw err
