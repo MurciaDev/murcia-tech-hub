@@ -24,8 +24,6 @@ jobs:
       - name: Commit changes
         if: github.event_name == 'push'
         run: |
-          git config user.name klaufel
-          git config user.email klaufel@gmail.com
-          git add .
+          git add README.md
           git commit -m "Update README"
           git push
