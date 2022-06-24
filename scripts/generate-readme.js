@@ -1,5 +1,5 @@
-const companies = require('../companies.json')
 const fs = require('fs')
+const companies = require('../companies.json')
 
 const REMOTE_WORK_ICONS = {
   FLEX: '🔄',
@@ -26,8 +26,7 @@ Si conoces alguna más o puedes poner algún dato más sobre las que ya existen 
 **Trabajo en remoto:**
 ﹖ No lo sabemos | 🚫 No | 🔄 Híbrido / flexible | ✅ 100% remoto
 
-${companiesMarkdown}
-`
+${companiesMarkdown}`
 
 try {
   fs.writeFileSync(`${process.cwd()}/README.md`, markdown, 'utf-8')
@@ -35,4 +34,3 @@ try {
 } catch (err) {
   console.error(err)
 }
-
