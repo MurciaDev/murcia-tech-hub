@@ -24,7 +24,7 @@ const markdown = `# 📂 Murcia Tech Hub
 
 > Listado de empresas con trabajos tecnológicos dentro de la Región de Murcia.
 
-Si conoces alguna más o puedes poner algún dato más sobre las que ya existen en el listado anímate y actualiza los datos, no olvides revisar la [guía de contribución](./CONTRIBUTING.md).
+Si conoces alguna empresa más o puedes poner algún dato más sobre las que ya existen en el listado anímate y actualiza los datos, no olvides revisar la [guía de contribución](./CONTRIBUTING.md).
 
 **Trabajo en remoto:**
 ﹖ No lo sabemos | 🚫 No | 🔄 Híbrido / flexible | ✅ 100% remoto
