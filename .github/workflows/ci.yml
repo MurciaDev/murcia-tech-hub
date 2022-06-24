@@ -19,4 +19,13 @@ jobs:
           node-version: 16
 
       - name: Generate README
-        run: npm run build lint
+        run: npm run build
+
+      - name: Commit changes
+        if: github.event_name == 'push'
+        run: |
+          git config user.name klaufel
+          git config user.email klaufel@gmail.com
+          git add .
+          git commit -m "Update README"
+          git push
