@@ -36,7 +36,7 @@ Si conoces alguna más o puedes poner algún dato más sobre las que ya existen 
 | [Capgemini](https://www.capgemini.com/) | 🔄 | ﹖ | Urban Center, Torre B, Calle Nelva, 1, 30006 Murcia |
 | [Digio](https://digio.es/) | ﹖ | ﹖ | Edificio JC1, Avenida Juan Carlos I, 55, planta 16, Espinardo, 30100 Murcia |
 | [Drool Studio](https://droolstudio.com/) | ﹖ | ﹖ | C, Rda. de Levante, 14, 1º - Oficina 4, 30008 Murcia |
-| [Introbay](https://introbay.com/) | ﹖ | ﹖ | ﹖ |
+| [Introbay](https://introbay.com/) | ﹖ | ﹖ | C/ Campus Universitario de Espinardo, 7 Módulo 4, 30100 Espinardo, Murcia |
 | [Metaenlace](https://metaenlace.com/) | ﹖ | ﹖ | Carril de la Condesa, 22, 30010 Murcia |
 | [Neosistec](https://www.neosistec.com/) | ﹖ | ﹖ | C. Central, 10, 30100 Espinardo, Murcia |
 | [Ntt data / Everis](https://es.nttdata.com/) | ﹖ | ﹖ | Edificio Torre Cristal, Av. Juan Carlos I, s/n, planta baja, 30100 Espinardo, Murcia |
