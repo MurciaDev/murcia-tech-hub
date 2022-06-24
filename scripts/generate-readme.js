@@ -11,9 +11,11 @@ const tableHeader = '| Nombre | Remoto | Stack | Dirección |\n| :-- | :-- | :--
 
 const companiesMarkdown = companies.map(({ category, companies }, index) => {
   const header = `${!!index ? '\n' : ''}## ${category}\n${tableHeader}`
-  const body = companies.map(({ address, remoteWork, name, stack, url }) =>
-    `| [${name}](${url}) | ${REMOTE_WORK_ICONS[remoteWork] || '﹖'} | ${stack || '﹖'} | ${address || '﹖'} |\n`
-  ).join('')
+  const body = companies
+    .sort(({ name }, { name: nameToCompare }) => name.toLowerCase().localeCompare(nameToCompare.toLowerCase()))
+    .map(({ address, remoteWork, name, stack, url }) =>
+      `| [${name}](${url}) | ${REMOTE_WORK_ICONS[remoteWork] || '﹖'} | ${stack || '﹖'} | ${address || '﹖'} |\n`
+    ).join('')
 
   return `${header}${body}`
 }).join('')
@@ -22,7 +24,7 @@ const markdown = `# 📂 Murcia Tech Hub
 
 > Listado de empresas con trabajos tecnológicos dentro de la Región de Murcia.
 
-Si conoces alguna más o puedes poner algún dato más sobre las que ya existen en el listado anímate a crear una PR!
+Si conoces alguna más o puedes poner algún dato más sobre las que ya existen en el listado anímate y actualiza los datos, no olvides revisar la [guía de contribución](./CONTRIBUTING.md).
 
 **Trabajo en remoto:**
 ﹖ No lo sabemos | 🚫 No | 🔄 Híbrido / flexible | ✅ 100% remoto

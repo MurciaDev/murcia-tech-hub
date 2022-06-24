@@ -2,7 +2,7 @@
 
 > Listado de empresas con trabajos tecnológicos dentro de la Región de Murcia.
 
-Si conoces alguna más o puedes poner algún dato más sobre las que ya existen en el listado anímate a crear una PR!
+Si conoces alguna más o puedes poner algún dato más sobre las que ya existen en el listado anímate y actualiza los datos, no olvides revisar la [guía de contribución](./CONTRIBUTING.md).
 
 **Trabajo en remoto:**
 ﹖ No lo sabemos | 🚫 No | 🔄 Híbrido / flexible | ✅ 100% remoto
@@ -23,10 +23,10 @@ Si conoces alguna más o puedes poner algún dato más sobre las que ya existen 
 | [PcComponentes](https://www.pccomponentes.com/) | ✅ | ﹖ | Polígono Industrial Las Salinas, Avenida Europa, 2-3, 30840, Murcia |
 | [Readyme](https://readyme.app/) | ﹖ | ﹖ | C. Campus Universitario, 7, Edificio CEEIM, 30100 Espinardo, Murcia |
 | [Slang Digital](https://slang.digital/) | ﹖ | ﹖ | Parque Cientifico de Murcia Ctra. Madrid Km 388 30100 Murcia, Murcia |
+| [Stay my way](https://staymyway.com/) | ﹖ | ﹖ | Torre Dimóvil. Avda. Juan Carlos I. 59 5º Planta. 30100, Murcia |
 | [STEL Order](https://www.stelorder.com/) | ﹖ | ﹖ | C. Mayor, 2, 30006 Puente Tocinos, Murcia |
 | [Wefish](https://wefish.app/) | ﹖ | ﹖ | ﹖ |
 | [Weguest](https://www.weguest.com/) | ﹖ | ﹖ | ﹖ |
-| [Stay my way](https://staymyway.com/) | ﹖ | ﹖ | Torre Dimóvil. Avda. Juan Carlos I. 59 5º Planta. 30100, Murcia |
 
 ## 📚 Consultoras / Agencias digitales
 | Nombre | Remoto | Stack | Dirección |
