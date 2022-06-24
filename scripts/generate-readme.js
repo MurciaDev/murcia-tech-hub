@@ -16,8 +16,7 @@ const companiesMarkdown = companies.map(({ category, companies }, index) => {
   return `${header}${body}`
 }).join('')
 
-const markdown = `
-# 📂 Murcia Tech Hub
+const markdown = `# 📂 Murcia Tech Hub
 
 > Listado de empresas con trabajos tecnológicos dentro de la Región de Murcia.
 
