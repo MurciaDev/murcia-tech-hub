@@ -28,10 +28,11 @@ Añade tus cambios al fichero bajo la siguiente estructura:
 
 Una vez tengas actualizado los datos, necesitaremos generar el nuevo `README` actualizado. Ejecuta en tu terminal el siguiente comando para generarlo:
 
+Si quieres ver una previsualización de tus cambios puedes ejecutar el siguiente comando para generar el nuevo `README`. 
 ```node
 npm run build
 ```
 
-Habrá generado un nuevo `README` con los cambios que hayas realizado en el fichero [`companies.json`](./companies.json). ¡Y ahora solo tienes que preaparar tu PR!
+Habrá generado un nuevo `README` con los cambios que hayas realizado en el fichero [`companies.json`](./companies.json). Aunque no será necesario que lo incluyas en tu PR, ya que al fusionar la rama se volverá a generar.
 
 ¡Gracias por tu contribución! 🤘
