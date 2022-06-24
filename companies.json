@@ -1,0 +1,208 @@
+[
+  {
+    "category": "📗 Empresas de producto",
+    "companies": [
+      {
+        "address": "C. Trapería 19, 3D",
+        "name": "DisplayNote",
+        "remoteWork": "FULL",
+        "stack": null,
+        "url": "https://www.displaynote.com/"
+      },
+      {
+        "address": "Carr. de Alicante, 215B, Nave 3, 30007 Murcia",
+        "name": "Carsbater",
+        "remoteWork": null,
+        "stack": null,
+        "url": "https://www.carsbarter.es/"
+      },
+      {
+        "address": null,
+        "name": "Erasmusu",
+        "remoteWork": null,
+        "stack": null,
+        "url": "https://erasmusu.com/"
+      },
+      {
+        "address": null,
+        "name": "Gofoodie",
+        "remoteWork": false,
+        "stack": null,
+        "url": "https://gofoodie.app/"
+      },
+      {
+        "address": "C. Campus Universitario, 7, Edificio CEEIM, 30100 Espinardo, Murcia",
+        "name": "Legaliboo",
+        "remoteWork": false,
+        "stack": null,
+        "url": "https://legaliboo.com/"
+      },
+      {
+        "address": "C. Campus Universitario, 7, Edificio CEEIM, 30100 Espinardo, Murcia",
+        "name": "Leverade",
+        "remoteWork": "FULL",
+        "stack": null,
+        "url": "https://leverade.com/"
+      },
+      {
+        "address": "C. Jose Manuel Sanchez Pedreño, 1, Planta 11, 30009 Murcia",
+        "name": "Minderest",
+        "remoteWork": "FLEX",
+        "stack": null,
+        "url": "https://www.minderest.com"
+      },
+      {
+        "address": "Parque Cientifico, 30100 Murcia",
+        "name": "Neuromobile",
+        "remoteWork": "FULL",
+        "stack": null,
+        "url": "https://neuromobile.es/"
+      },
+      {
+        "address": "Carr. de Alicante, 215B, Nave 3, 30007 Murcia",
+        "name": "Nido robotics",
+        "remoteWork": false,
+        "stack": null,
+        "url": "https://www.nidorobotics.com/"
+      },
+      {
+        "address": "Avenida Luxemburgo, s/n Centro Empresarial Cartagena Plaza, 6ª Planta, 30353 Cartagena, Murcia",
+        "name": "Odilo",
+        "remoteWork": false,
+        "stack": null,
+        "url": "https://www.odilo.es/"
+      },
+      {
+        "address": "Polígono Industrial Las Salinas, Avenida Europa, 2-3, 30840, Murcia",
+        "name": "PcComponentes",
+        "remoteWork": "FULL",
+        "stack": null,
+        "url": "https://www.pccomponentes.com/"
+      },
+      {
+        "address": "C. Campus Universitario, 7, Edificio CEEIM, 30100 Espinardo, Murcia",
+        "name": "Readyme",
+        "remoteWork": false,
+        "stack": null,
+        "url": "https://readyme.app/"
+      },
+      {
+        "address": "Parque Cientifico de Murcia Ctra. Madrid Km 388 30100 Murcia, Murcia",
+        "name": "Slang Digital",
+        "remoteWork": false,
+        "stack": null,
+        "url": "https://slang.digital/"
+      },
+      {
+        "address": "C. Mayor, 2, 30006 Puente Tocinos, Murcia",
+        "name": "STEL Order",
+        "remoteWork": false,
+        "stack": null,
+        "url": "https://www.stelorder.com/"
+      },
+      {
+        "address": null,
+        "name": "Wefish",
+        "remoteWork": false,
+        "stack": null,
+        "url": "https://wefish.app/"
+      },
+      {
+        "address": "Torre Dimóvil. Avda. Juan Carlos I. 59 5º Planta. 30100, Murcia",
+        "name": "Stay my way",
+        "remoteWork": false,
+        "stack": null,
+        "url": "https://staymyway.com/"
+      },
+      {
+        "address": null,
+        "name": "Weguest",
+        "remoteWork": false,
+        "stack": null,
+        "url": "https://www.weguest.com/"
+      }
+    ]
+  },
+  {
+    "category": "📚 Consultoras / Agencias digitales",
+    "companies": [
+      {
+        "address": "C. Central, 17C, 30100 Murcia",
+        "name": "Aunna IT",
+        "remoteWork": false,
+        "stack": null,
+        "url": "https://www.aunnait.es/"
+      },
+      {
+        "address": "P.º Joaquín Garrigues Walker, 14, 30007 Murcia",
+        "name": "Bitec",
+        "remoteWork": false,
+        "stack": null,
+        "url": "https://www.bitec.es/"
+      },
+      {
+        "address": "Urban Center, Torre B, Calle Nelva, 1, 30006 Murcia",
+        "name": "Capgemini",
+        "remoteWork": "FLEX",
+        "stack": null,
+        "url": "https://www.capgemini.com/"
+      },
+      {
+        "address": "Edificio JC1, Avenida Juan Carlos I, 55, planta 16, Espinardo, 30100 Murcia",
+        "name": "Digio",
+        "remoteWork": false,
+        "stack": null,
+        "url": "https://digio.es/"
+      },
+      {
+        "address": "C, Rda. de Levante, 14, 1º - Oficina 4, 30008 Murcia",
+        "name": "Drool Studio",
+        "remoteWork": false,
+        "stack": null,
+        "url": "https://droolstudio.com/"
+      },
+      {
+        "address": null,
+        "name": "Introbay",
+        "remoteWork": false,
+        "stack": null,
+        "url": "https://introbay.com/"
+      },
+      {
+        "address": "Carril de la Condesa, 22, 30010 Murcia",
+        "name": "Metaenlace",
+        "remoteWork": false,
+        "stack": null,
+        "url": "https://metaenlace.com/"
+      },
+      {
+        "address": "C. Central, 10, 30100 Espinardo, Murcia",
+        "name": "Neosistec",
+        "remoteWork": false,
+        "stack": null,
+        "url": "https://www.neosistec.com/"
+      },
+      {
+        "address": "Edificio Torre Cristal, Av. Juan Carlos I, s/n, planta baja, 30100 Espinardo, Murcia",
+        "name": "Ntt data / Everis",
+        "remoteWork": false,
+        "stack": null,
+        "url": "https://es.nttdata.com/"
+      },
+      {
+        "address": "Av/ Juan Carlos I 59, planta 3, 30100, Espinardo, Murcia",
+        "name": "Sozpic",
+        "remoteWork": "FLEX",
+        "stack": null,
+        "url": "https://www.sozpic.com/"
+      },
+      {
+        "address": "Av. de Zarandona, 29, 1 planta, 30007 Murcia",
+        "name": "Zapp Studio",
+        "remoteWork": false,
+        "stack": null,
+        "url": "https://zapp-studio.com/"
+      }
+    ]
+  }
+]
