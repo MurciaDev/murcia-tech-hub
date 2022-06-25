@@ -11,7 +11,7 @@ Si conoces alguna empresa más o puedes poner algún dato más sobre las que ya 
 | Nombre | Remoto | Stack | Dirección |
 | :-- | :-- | :-- | :-- |
 | [Carsbater](https://www.carsbarter.es/) | ﹖ | ﹖ | Carr. de Alicante, 215B, Nave 3, 30007 Murcia |
-| [DisplayNote](https://www.displaynote.com/) | ✅ | ﹖ | C. Trapería 19, 3D |
+| [DisplayNote](https://www.displaynote.com/) | ✅ | ﹖ | Calle Trapería 19, 3D Murcia 30004 Spain |
 | [Erasmusu](https://erasmusu.com/) | ﹖ | ﹖ | ﹖ |
 | [Gofoodie](https://gofoodie.app/) | ﹖ | ﹖ | ﹖ |
 | [Legaliboo](https://legaliboo.com/) | ﹖ | ﹖ | C. Campus Universitario, 7, Edificio CEEIM, 30100 Espinardo, Murcia |
