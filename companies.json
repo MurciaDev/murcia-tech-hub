@@ -3,6 +3,20 @@
     "category": "📗 Empresas de producto",
     "companies": [
       {
+        "address": "C. Francisco Flores Muelas, 37, 30100 Espinardo, Murcia",
+        "name": "Bemyvega",
+        "remoteWork": null,
+        "stack": null,
+        "url": "https://bemyvega.com/"
+      },
+      {
+        "address": "C. Luis Buñuel, 6, 30562 Ceutí, Murcia",
+        "name": "Hop Ubiquitous",
+        "remoteWork": null,
+        "stack": null,
+        "url": "https://hopu.eu/"
+      },
+      {
         "address": "Calle Trapería 19, 3D Murcia 30004 Spain",
         "name": "DisplayNote",
         "remoteWork": "FULL",
