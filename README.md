@@ -10,10 +10,12 @@ Si conoces alguna empresa más o puedes poner algún dato más sobre las que ya 
 ## 📗 Empresas de producto
 | Nombre | Remoto | Stack | Dirección |
 | :-- | :-- | :-- | :-- |
+| [Bemyvega](https://bemyvega.com/) | ﹖ | ﹖ | C. Francisco Flores Muelas, 37, 30100 Espinardo, Murcia |
 | [Carsbater](https://www.carsbarter.es/) | ﹖ | ﹖ | Carr. de Alicante, 215B, Nave 3, 30007 Murcia |
 | [DisplayNote](https://www.displaynote.com/) | ✅ | ﹖ | Calle Trapería 19, 3D Murcia 30004 Spain |
 | [Erasmusu](https://erasmusu.com/) | ﹖ | ﹖ | ﹖ |
 | [Gofoodie](https://gofoodie.app/) | ﹖ | ﹖ | ﹖ |
+| [Hop Ubiquitous](https://hopu.eu/) | ﹖ | ﹖ | C. Luis Buñuel, 6, 30562 Ceutí, Murcia |
 | [Legaliboo](https://legaliboo.com/) | ﹖ | ﹖ | C. Campus Universitario, 7, Edificio CEEIM, 30100 Espinardo, Murcia |
 | [Leverade](https://leverade.com/) | ✅ | ﹖ | C. Campus Universitario, 7, Edificio CEEIM, 30100 Espinardo, Murcia |
 | [Minderest](https://www.minderest.com) | 🔄 | ﹖ | C. Jose Manuel Sanchez Pedreño, 1, Planta 11, 30009 Murcia |
