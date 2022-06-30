@@ -185,7 +185,7 @@
       {
         "address": "Carril de la Condesa, 22, 30010 Murcia",
         "name": "Metaenlace",
-        "remoteWork": false,
+        "remoteWork": "FULL",
         "stack": null,
         "url": "https://metaenlace.com/"
       },
@@ -199,7 +199,7 @@
       {
         "address": "Edificio Torre Cristal, Av. Juan Carlos I, s/n, planta baja, 30100 Espinardo, Murcia",
         "name": "Ntt data / Everis",
-        "remoteWork": false,
+        "remoteWork": "FULL",
         "stack": null,
         "url": "https://es.nttdata.com/"
       },
