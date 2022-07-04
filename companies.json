@@ -211,6 +211,13 @@
         "url": "https://www.sozpic.com/"
       },
       {
+        "address": "C/ Campus Universitario de Espinardo, 7 Módulo 5, 30100 Espinardo, Murcia",
+        "name": "Visualtis",
+        "remoteWork": "FLEX",
+        "stack": null,
+        "url": "https://visualtis.com/"
+      },
+      {
         "address": "Av. de Zarandona, 29, 1 planta, 30007 Murcia",
         "name": "Zapp Studio",
         "remoteWork": false,
