@@ -42,6 +42,7 @@ Si conoces alguna empresa más o puedes poner algún dato más sobre las que ya 
 | [Metaenlace](https://metaenlace.com/) | ✅ | ﹖ | Carril de la Condesa, 22, 30010 Murcia |
 | [Neosistec](https://www.neosistec.com/) | ﹖ | ﹖ | C. Central, 10, 30100 Espinardo, Murcia |
 | [Ntt data / Everis](https://es.nttdata.com/) | ✅ | ﹖ | Edificio Torre Cristal, Av. Juan Carlos I, s/n, planta baja, 30100 Espinardo, Murcia |
+| [ONMI Engineering](https://beta.onmiengineering.es/) | 🔄 | ﹖ | Plaza Condestable, 5, Escalera Derecha, Entresuelo Derecha, 30009 Murcia |
 | [Sozpic](https://www.sozpic.com/) | 🔄 | ﹖ | Av/ Juan Carlos I 59, planta 3, 30100, Espinardo, Murcia |
 | [Visualtis](https://visualtis.com/) | 🔄 | ﹖ | C/ Campus Universitario de Espinardo, 7 Módulo 5, 30100 Espinardo, Murcia |
 | [Zapp Studio](https://zapp-studio.com/) | ﹖ | ﹖ | Av. de Zarandona, 29, 1 planta, 30007 Murcia |
