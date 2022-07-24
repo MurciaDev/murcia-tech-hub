@@ -9,8 +9,8 @@ const REMOTE_WORK_ICONS = {
 
 const tableHeader = '| Nombre | Remoto | Stack | Dirección |\n| :-- | :-- | :-- | :-- |\n'
 
-const companiesMarkdown = companies.map(({ category, companies }, index) => {
-  const header = `${!!index ? '\n' : ''}## ${category}\n${tableHeader}`
+const companiesMarkdown = companies.map(({ category, categoryIcon, companies }, index) => {
+  const header = `${!!index ? '\n' : ''}## ${categoryIcon} ${category}\n${tableHeader}`
   const body = companies
     .sort(({ name }, { name: nameToCompare }) => name.toLowerCase().localeCompare(nameToCompare.toLowerCase()))
     .map(({ address, remoteWork, name, stack, url }) =>
@@ -20,16 +20,14 @@ const companiesMarkdown = companies.map(({ category, companies }, index) => {
   return `${header}${body}`
 }).join('')
 
-const markdown = `# 📂 Murcia Tech Hub
-
-> Listado de empresas con trabajos tecnológicos dentro de la Región de Murcia.
-
-Si conoces alguna empresa más o puedes poner algún dato más sobre las que ya existen en el listado anímate y actualiza los datos, no olvides revisar la [guía de contribución](./CONTRIBUTING.md).
-
-**Trabajo en remoto:**
-﹖ No lo sabemos | 🚫 No | 🔄 Híbrido / flexible | ✅ 100% remoto
-
-${companiesMarkdown}`
+const markdown = [
+  '# 📂 Murcia Tech Hub\n',
+  '> Listado de empresas con trabajos tecnológicos dentro de la Región de Murcia.\n',
+  'Si conoces alguna empresa más o puedes poner algún dato más sobre las que ya existen en el listado anímate y actualiza los datos, no olvides revisar la [guía de contribución](./CONTRIBUTING.md).\n',
+  '**Trabajo en remoto:**',
+  '﹖ No lo sabemos | 🚫 No | 🔄 Híbrido / flexible | ✅ 100% remoto\n',
+  companiesMarkdown
+].join('\n');
 
 try {
   fs.writeFileSync(`${process.cwd()}/README.md`, markdown, 'utf-8')

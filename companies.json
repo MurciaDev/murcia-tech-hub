@@ -1,9 +1,11 @@
 [
   {
-    "category": "📗 Empresas de producto",
+    "category": "Empresas de producto",
+    "categoryIcon": "📗",
     "companies": [
       {
         "address": "C. Francisco Flores Muelas, 37, 30100 Espinardo, Murcia",
+        "location": "Espinardo, Murcia",
         "name": "Bemyvega",
         "remoteWork": null,
         "stack": null,
@@ -11,6 +13,7 @@
       },
       {
         "address": "C. Luis Buñuel, 6, 30562 Ceutí, Murcia",
+        "location": "Ceutí",
         "name": "Hop Ubiquitous",
         "remoteWork": null,
         "stack": null,
@@ -18,6 +21,7 @@
       },
       {
         "address": "Calle Trapería 19, 3D Murcia 30004 Spain",
+        "locaiton": "Murcia",
         "name": "DisplayNote",
         "remoteWork": "FULL",
         "stack": null,
@@ -25,6 +29,7 @@
       },
       {
         "address": "Carr. de Alicante, 215B, Nave 3, 30007 Murcia",
+        "location": "Murcia",
         "name": "Carsbater",
         "remoteWork": null,
         "stack": null,
@@ -32,6 +37,7 @@
       },
       {
         "address": null,
+        "location": null,
         "name": "Erasmusu",
         "remoteWork": null,
         "stack": null,
@@ -39,20 +45,23 @@
       },
       {
         "address": null,
+        "location": null,
         "name": "Gofoodie",
-        "remoteWork": false,
+        "remoteWork": "NONE",
         "stack": null,
         "url": "https://gofoodie.app/"
       },
       {
         "address": "C. Campus Universitario, 7, Edificio CEEIM, 30100 Espinardo, Murcia",
+        "location": "Espinardo, Murcia",
         "name": "Legaliboo",
-        "remoteWork": false,
+        "remoteWork": "NONE",
         "stack": null,
         "url": "https://legaliboo.com/"
       },
       {
         "address": "C. Campus Universitario, 7, Edificio CEEIM, 30100 Espinardo, Murcia",
+        "location": "Espinardo, Murcia",
         "name": "Leverade",
         "remoteWork": "FULL",
         "stack": null,
@@ -60,6 +69,7 @@
       },
       {
         "address": "C. Jose Manuel Sanchez Pedreño, 1, Planta 11, 30009 Murcia",
+        "location": "Murcia",
         "name": "Minderest",
         "remoteWork": "FLEX",
         "stack": null,
@@ -67,6 +77,7 @@
       },
       {
         "address": "Parque Cientifico, 30100 Murcia",
+        "location": "Murcia",
         "name": "Neuromobile",
         "remoteWork": "FULL",
         "stack": null,
@@ -74,20 +85,23 @@
       },
       {
         "address": "Carr. de Alicante, 215B, Nave 3, 30007 Murcia",
+        "location": "Murcia",
         "name": "Nido robotics",
-        "remoteWork": false,
+        "remoteWork": "NONE",
         "stack": null,
         "url": "https://www.nidorobotics.com/"
       },
       {
         "address": "Avenida Luxemburgo, s/n Centro Empresarial Cartagena Plaza, 6ª Planta, 30353 Cartagena, Murcia",
+        "location": "Cartagena",
         "name": "Odilo",
-        "remoteWork": false,
+        "remoteWork": "NONE",
         "stack": null,
         "url": "https://www.odilo.es/"
       },
       {
         "address": "Polígono Industrial Las Salinas, Avenida Europa, 2-3, 30840, Murcia",
+        "location": "Alhama de Murcia",
         "name": "PcComponentes",
         "remoteWork": "FULL",
         "stack": null,
@@ -95,67 +109,76 @@
       },
       {
         "address": "C. Campus Universitario, 7, Edificio CEEIM, 30100 Espinardo, Murcia",
+        "location": "Espinardo, Murcia",
         "name": "Readyme",
-        "remoteWork": false,
+        "remoteWork": "NONE",
         "stack": null,
         "url": "https://readyme.app/"
       },
       {
         "address": "Parque Cientifico de Murcia Ctra. Madrid Km 388 30100 Murcia, Murcia",
         "name": "Slang Digital",
-        "remoteWork": false,
+        "remoteWork": "NONE",
         "stack": null,
         "url": "https://slang.digital/"
       },
       {
         "address": "C. Mayor, 2, 30006 Puente Tocinos, Murcia",
+        "location": "Puente Tocinos",
         "name": "STEL Order",
-        "remoteWork": false,
+        "remoteWork": "NONE",
         "stack": null,
         "url": "https://www.stelorder.com/"
       },
       {
         "address": null,
+        "location": null,
         "name": "Wefish",
-        "remoteWork": false,
+        "remoteWork": "NONE",
         "stack": null,
         "url": "https://wefish.app/"
       },
       {
         "address": "Torre Dimóvil. Avda. Juan Carlos I. 59 5º Planta. 30100, Murcia",
+        "location": "Murcia",
         "name": "Stay my way",
-        "remoteWork": false,
+        "remoteWork": "NONE",
         "stack": null,
         "url": "https://staymyway.com/"
       },
       {
         "address": null,
+        "location": null,
         "name": "Weguest",
-        "remoteWork": false,
+        "remoteWork": "NONE",
         "stack": null,
         "url": "https://www.weguest.com/"
       }
     ]
   },
   {
-    "category": "📚 Consultoras / Agencias digitales",
+    "category": "Consultoras / Agencias digitales",
+    "categoryIcon": "📚",
     "companies": [
       {
         "address": "C. Central, 17C, 30100 Murcia",
+        "location": "Murcia",
         "name": "Aunna IT",
-        "remoteWork": false,
+        "remoteWork": "NONE",
         "stack": null,
         "url": "https://www.aunnait.es/"
       },
       {
         "address": "P.º Joaquín Garrigues Walker, 14, 30007 Murcia",
+        "location": "Murcia",
         "name": "Bitec",
-        "remoteWork": false,
+        "remoteWork": "NONE",
         "stack": null,
         "url": "https://www.bitec.es/"
       },
       {
         "address": "Urban Center, Torre B, Calle Nelva, 1, 30006 Murcia",
+        "location": "Murcia",
         "name": "Capgemini",
         "remoteWork": "FLEX",
         "stack": null,
@@ -163,27 +186,31 @@
       },
       {
         "address": "Edificio JC1, Avenida Juan Carlos I, 55, planta 16, Espinardo, 30100 Murcia",
+        "location": "Espinardo, Murcia",
         "name": "Digio",
-        "remoteWork": false,
+        "remoteWork": "NONE",
         "stack": null,
         "url": "https://digio.es/"
       },
       {
         "address": "C, Rda. de Levante, 14, 1º - Oficina 4, 30008 Murcia",
+        "location": "Murcia",
         "name": "Drool Studio",
-        "remoteWork": false,
+        "remoteWork": "NONE",
         "stack": null,
         "url": "https://droolstudio.com/"
       },
       {
         "address": "C/ Campus Universitario de Espinardo, 7 Módulo 4, 30100 Espinardo, Murcia",
+        "location": "Espinardo, Murcia",
         "name": "Introbay",
-        "remoteWork": false,
+        "remoteWork": "NONE",
         "stack": null,
         "url": "https://introbay.com/"
       },
       {
         "address": "Carril de la Condesa, 22, 30010 Murcia",
+        "location": "Murcia",
         "name": "Metaenlace",
         "remoteWork": "FULL",
         "stack": null,
@@ -191,13 +218,15 @@
       },
       {
         "address": "C. Central, 10, 30100 Espinardo, Murcia",
+        "location": "Espinardo, Murcia",
         "name": "Neosistec",
-        "remoteWork": false,
+        "remoteWork": "NONE",
         "stack": null,
         "url": "https://www.neosistec.com/"
       },
       {
         "address": "Edificio Torre Cristal, Av. Juan Carlos I, s/n, planta baja, 30100 Espinardo, Murcia",
+        "location": "Espinardo, Murcia",
         "name": "Ntt data / Everis",
         "remoteWork": "FULL",
         "stack": null,
@@ -205,6 +234,7 @@
       },
       {
         "address": "Plaza Condestable, 5, Escalera Derecha, Entresuelo Derecha, 30009 Murcia",
+        "location": "Murcia",
         "name": "ONMI Engineering",
         "remoteWork": "FLEX",
         "stack": null,
@@ -212,6 +242,7 @@
       },
       {
         "address": "Av/ Juan Carlos I 59, planta 3, 30100, Espinardo, Murcia",
+        "location": "Espinardo, Murcia",
         "name": "Sozpic",
         "remoteWork": "FLEX",
         "stack": null,
@@ -219,6 +250,7 @@
       },
       {
         "address": "C/ Campus Universitario de Espinardo, 7 Módulo 5, 30100 Espinardo, Murcia",
+        "location": "Espinardo, Murcia",
         "name": "Visualtis",
         "remoteWork": "FLEX",
         "stack": null,
@@ -226,8 +258,9 @@
       },
       {
         "address": "Av. de Zarandona, 29, 1 planta, 30007 Murcia",
+        "location": "Murcia",
         "name": "Zapp Studio",
-        "remoteWork": false,
+        "remoteWork": "NONE",
         "stack": null,
         "url": "https://zapp-studio.com/"
       }
