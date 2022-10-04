@@ -127,7 +127,7 @@
         "location": "Puente Tocinos",
         "name": "STEL Order",
         "remoteWork": "FULL",
-        "stack": "AWS, Linux, Java, MySQL, JavaScript, React, Next",
+        "stack": null,
         "url": "https://www.stelorder.com/"
       },
       {
