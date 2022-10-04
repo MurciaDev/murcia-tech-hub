@@ -126,8 +126,8 @@
         "address": "C. Mayor, 2, 30006 Puente Tocinos, Murcia",
         "location": "Puente Tocinos",
         "name": "STEL Order",
-        "remoteWork": "NONE",
-        "stack": null,
+        "remoteWork": "FULL",
+        "stack": "AWS, Linux, Java, MySQL, JavaScript, React, Next",
         "url": "https://www.stelorder.com/"
       },
       {
