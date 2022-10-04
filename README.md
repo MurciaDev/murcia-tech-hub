@@ -26,7 +26,7 @@ Si conoces alguna empresa más o puedes poner algún dato más sobre las que ya 
 | [Readyme](https://readyme.app/) | 🚫 | ﹖ | C. Campus Universitario, 7, Edificio CEEIM, 30100 Espinardo, Murcia |
 | [Slang Digital](https://slang.digital/) | 🚫 | ﹖ | Parque Cientifico de Murcia Ctra. Madrid Km 388 30100 Murcia, Murcia |
 | [Stay my way](https://staymyway.com/) | 🚫 | ﹖ | Torre Dimóvil. Avda. Juan Carlos I. 59 5º Planta. 30100, Murcia |
-| [STEL Order](https://www.stelorder.com/) | ✅ | AWS, Linux, Java, MySQL, JavaScript, React, Next | C. Mayor, 2, 30006 Puente Tocinos, Murcia |
+| [STEL Order](https://www.stelorder.com/) | ✅ | ﹖ | C. Mayor, 2, 30006 Puente Tocinos, Murcia |
 | [Wefish](https://wefish.app/) | 🚫 | ﹖ | ﹖ |
 | [Weguest](https://www.weguest.com/) | 🚫 | ﹖ | ﹖ |
 
