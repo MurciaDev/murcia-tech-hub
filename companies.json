@@ -153,6 +153,14 @@
         "remoteWork": "NONE",
         "stack": null,
         "url": "https://www.weguest.com/"
+      },
+      {
+        "address": "C. Central, 13, 1a, 30100 Espinardo, Murcia",
+        "location": "Murcia",
+        "name": "Inbentus",
+        "remoteWork": "FLEX",
+        "stack": null,
+        "url": "https://www.inbentus.com/"
       }
     ]
   },

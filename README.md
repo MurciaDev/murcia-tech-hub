@@ -16,6 +16,7 @@ Si conoces alguna empresa más o puedes poner algún dato más sobre las que ya 
 | [Erasmusu](https://erasmusu.com/) | ﹖ | ﹖ | ﹖ |
 | [Gofoodie](https://gofoodie.app/) | 🚫 | ﹖ | ﹖ |
 | [Hop Ubiquitous](https://hopu.eu/) | ﹖ | ﹖ | C. Luis Buñuel, 6, 30562 Ceutí, Murcia |
+| [Inbentus](https://www.inbentus.com/) | 🔄 | ﹖ | C. Central, 13, 1a, 30100 Espinardo, Murcia |
 | [Legaliboo](https://legaliboo.com/) | 🚫 | ﹖ | C. Campus Universitario, 7, Edificio CEEIM, 30100 Espinardo, Murcia |
 | [Leverade](https://leverade.com/) | ✅ | ﹖ | C. Campus Universitario, 7, Edificio CEEIM, 30100 Espinardo, Murcia |
 | [Minderest](https://www.minderest.com) | 🔄 | ﹖ | C. Jose Manuel Sanchez Pedreño, 1, Planta 11, 30009 Murcia |
