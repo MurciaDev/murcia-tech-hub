@@ -46,6 +46,14 @@
       {
         "address": null,
         "location": null,
+        "name": "Estrim",
+        "remoteWork": null,
+        "stack": null,
+        "url": "https://estrim.com/"
+      },
+      {
+        "address": null,
+        "location": null,
         "name": "Gofoodie",
         "remoteWork": "NONE",
         "stack": null,
